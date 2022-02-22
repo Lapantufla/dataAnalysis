@@ -6,7 +6,8 @@ Es creado con el mero hecho de visibilizar mas el campo de data science y tmb pa
 
 
 Por ahora el repo consta de 3 branches: 
-  * Web Scraping: Las notebook que se encuentren aui corresponderan a ejercicios/practicas de web scraping.
+  * Data Visualization: Las notebook contenidas en este branch corresponderan a formas de visualizar la informacion (con funciones, distribuciones, etc)
+  * Web Scraping: Las notebook que se encuentren aqui corresponderan a ejercicios/practicas de web scraping.
   
   * Big Data: Las notebook que se encuentre aqui correspoderan a ejercicios/practicas de big data, por ahora seran utilizando el framework **Spark**.
   
